@@ -1,0 +1,161 @@
+Parameter,Model,Model average,Standard error of model estimate,Error,Error,within_95,proportion
+Intercept,"Data
+limited
+(no prior)",5.009555407,0.193692353,0.009555407,0.047778534,86,0.86
+Year 2011,"Data
+limited
+(no prior)",0.102036377,0.06850623,0.002036377,0.004746158,92,0.92
+Year 2012,"Data
+limited
+(no prior)",0.004054245,0.066696622,0.004054245,0.004327403,98,0.98
+Year 2013,"Data
+limited
+(no prior)",0.00221442,0.07632195,0.00221442,0.006061409,95,0.95
+Year 2014,"Data
+limited
+(no prior)",0.200585019,0.06667789,0.000585019,0.00343864,98,0.98
+Year 2015,"Data
+limited
+(no prior)",0.206351259,0.066690548,0.006351259,0.003136611,98,0.98
+log_depth_scaled2,"Data
+limited
+(no prior)",0.999282613,0.041499142,-0.000717387,0.001950234,94,0.94
+log_depth_scaled2,"Data
+limited
+(no prior)",-0.249649589,0.022082334,0.000350411,0.00062,90,0.9
+mi-delta,"Data
+limited
+(no prior)",2.040702449,0.161351099,0.040702449,0.031585481,88,0.88
+mi-Eo,"Data
+limited
+(no prior)",0.302331948,0.062640125,0.002331948,0.003540309,98,0.98
+mi-s50,"Data
+limited
+(no prior)",1.982424653,0.148956171,-0.017575347,0.021544083,96,0.96
+mi-smax,"Data
+limited
+(no prior)",4.064509641,0.248692116,0.064509641,0.079917359,94,0.94
+phi,"Data
+limited
+(no prior)",6.997079491,NA,-0.002920509,0.030028737,94,0.94
+range,"Data
+limited
+(no prior)",0.285845335,NA,-0.014154665,0.009405927,90,0.9
+sigma_O,"Data
+limited
+(no prior)",0.465259778,NA,-0.034740222,0.008339162,91,0.91
+tweedie_p,"Data
+limited
+(no prior)",1.498477059,NA,-0.001522941,5.95E-05,95,0.95
+Intercept,"Data Rich
+(Correct
+prior)",5.009638029,0.193589504,0.009638029,0.047730182,86,0.86
+Year 2011,"Data Rich
+(Correct
+prior)",0.102021006,0.068503682,0.002021006,0.004741391,92,0.92
+Year 2012,"Data Rich
+(Correct
+prior)",0.00405708,0.066694555,0.00405708,0.004325552,97,0.97
+Year 2013,"Data Rich
+(Correct
+prior)",0.002223126,0.076320171,0.002223126,0.006054948,95,0.95
+Year 2014,"Data Rich
+(Correct
+prior)",0.200614228,0.066675557,0.000614228,0.003435079,98,0.98
+Year 2015,"Data Rich
+(Correct
+prior)",0.206338831,0.066688521,0.006338831,0.003136231,98,0.98
+log_depth_scaled2,"Data Rich
+(Correct
+prior)",0.999427942,0.040736204,-0.000572058,0.001859686,95,0.95
+log_depth_scaled2,"Data Rich
+(Correct
+prior)",-0.24963302,0.022067013,0.00036698,0.000617752,90,0.9
+mi-delta,"Data Rich
+(Correct
+prior)",2.040475045,0.160396049,0.040475045,0.030861856,89,0.89
+mi-Eo,"Data Rich
+(Correct
+prior)",0.302059782,0.057758779,0.002059782,0.00256189,99,0.99
+mi-s50,"Data Rich
+(Correct
+prior)",1.981011622,0.140609055,-0.018988378,0.017943006,97,0.97
+mi-smax,"Data Rich
+(Correct
+prior)",4.064837432,0.245911896,0.064837432,0.078331876,93,0.93
+phi,"Data Rich
+(Correct
+prior)",6.997101344,NA,-0.002898656,0.030027477,94,0.94
+range,"Data Rich
+(Correct
+prior)",0.285847355,NA,-0.014152645,0.009409645,90,0.9
+sigma_O,"Data Rich
+(Correct
+prior)",0.465265115,NA,-0.034734885,0.008338981,91,0.91
+tweedie_p,"Data Rich
+(Correct
+prior)",1.49847735,NA,-0.00152265,5.95E-05,95,0.95
+Intercept,"Unusual
+Case
+(Incorrect
+prior)",5.007108202,0.193643983,0.007108202,0.04781752,86,0.86
+Year 2011,"Unusual
+Case
+(Incorrect
+prior)",0.102065729,0.068506079,0.002065729,0.004751715,92,0.92
+Year 2012,"Unusual
+Case
+(Incorrect
+prior)",0.004020378,0.066696708,0.004020378,0.004328348,98,0.98
+Year 2013,"Unusual
+Case
+(Incorrect
+prior)",0.002202251,0.076322003,0.002202251,0.006067358,95,0.95
+Year 2014,"Unusual
+Case
+(Incorrect
+prior)",0.200536513,0.066678024,0.000536513,0.003440093,98,0.98
+Year 2015,"Unusual
+Case
+(Incorrect
+prior)",0.206333887,0.066690565,0.006333887,0.00313268,98,0.98
+log_depth_scaled2,"Unusual
+Case
+(Incorrect
+prior)",0.996115609,0.041415878,-0.003884391,0.001959376,96,0.96
+log_depth_scaled2,"Unusual
+Case
+(Incorrect
+prior)",-0.249968096,0.022061399,3.19E-05,0.00061751,89,0.89
+mi-delta,"Unusual
+Case
+(Incorrect
+prior)",2.047528288,0.161736689,0.047528288,0.032383907,89,0.89
+mi-Eo,"Unusual
+Case
+(Incorrect
+prior)",0.312018185,0.061998993,0.012018185,0.003589023,98,0.98
+mi-s50,"Unusual
+Case
+(Incorrect
+prior)",2.00203242,0.148480569,0.00203242,0.020899344,97,0.97
+mi-smax,"Unusual
+Case
+(Incorrect
+prior)",4.049765832,0.246374703,0.049765832,0.076659849,94,0.94
+phi,"Unusual
+Case
+(Incorrect
+prior)",6.997089796,NA,-0.002910204,0.030030542,94,0.94
+range,"Unusual
+Case
+(Incorrect
+prior)",0.285835694,NA,-0.014164306,0.009407841,90,0.9
+sigma_O,"Unusual
+Case
+(Incorrect
+prior)",0.465260675,NA,-0.034739325,0.008336763,91,0.91
+tweedie_p,"Unusual
+Case
+(Incorrect
+prior)",1.498478587,NA,-0.001521413,5.94E-05,95,0.95
